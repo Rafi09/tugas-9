@@ -67,3 +67,6 @@ print("\n Daftar Nilai Mahasiswa") print("======================================
 
 ![uby3](foto/uby3.png)
 
+# TERIMAKSIH 
+
+![uby4](foto/uby4.png) 
