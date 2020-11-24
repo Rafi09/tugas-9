@@ -1,17 +1,3 @@
-# tugas-9
-
-# Nama   : Rafi Ubaidillah
-# kelas  : TI 20 A1
-# Nim    : 312010090
-# Matkul : Bahasa Pemograman 
-
-----------------------------------------
-# Program Data Mahasiswa
-
-![uby](foto/uby.png)
-
-# Berikut inputannya 
-
 nilai = []
 ulang = True
 
@@ -37,6 +23,3 @@ for item in nilai:
     print("| {no:2d} | {nama:12s} | {nim:9s} | {tugas:5d} | {uts:5d} | {uas:5d} | {akhir:6.2f} |"
           .format(no=i, nama=item[0], nim=item[1], tugas=item[2], uts=item[3], uas=item[4], akhir=item[5]))
 print("==================================================================")
-
-![uby2](foto/uby2.png)
-
