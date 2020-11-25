@@ -1,4 +1,4 @@
-nilai = []
+a = []
 ulang = True
 
 while ulang:
